@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**DevOps Architect @ Xebia | GitHub Copilot Enablement | DevOps Transformation | 27+ years at Accenture**
+**DevOps Architect @ Xebia | GitHub Copilot Enablement | DevOps Transformation | Enterprise Platform Migrations**
 
 DevOps architect with 30+ years of experience helping large enterprises transform how they build and ship software. I specialize in GitHub platform adoption — from Copilot enablement and prompt engineering to large-scale migrations from Bitbucket, GitLab, AzDO, and Jenkins. I've spent my career at the intersection of people, process, and tooling, driving measurable change across financial services, government, and global enterprises.
 
@@ -47,7 +47,7 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 
 ## 🎓 Education
 
-- **<!-- TODO: Degree, Field of Study -->** — <!-- TODO: University / Institution -->
+- **Bachelor of Science, Information Systems (1991 – 1995)** — University of Colorado Boulder
 
 ---
 
@@ -55,16 +55,16 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 
 ### DevOps Architect – Xebia (Nov 2023 – Present)
 Leading GitHub platform transformation engagements for enterprise clients, with a focus on AI-assisted development and migrations from legacy DevOps toolchains.
-- Leading GitHub Copilot enablement training and implementation, covering metrics to prompt engineering
-- Leading successful migration projects from Bitbucket, GitLab, AzDO, and Jenkins to GitHub
-- Solution architecture for end-to-end GitHub transformation projects
+- Lead GitHub Copilot enablement programs, from metrics to prompt engineering
+- Lead migration initiatives from Bitbucket, GitLab, AzDO, and Jenkins to GitHub
+- Design end-to-end solution architecture for GitHub transformation programs
 
 ### DevOps Executive – Li atrio (Jan 2022 – Jun 2023)
-Helped complex organizations implement the GitHub platform and drive digital transformation through Enterprise DevOps and Cloud Native delivery.
+Helped complex organizations implement the GitHub platform and drive digital transformation through enterprise DevOps and cloud-native delivery.
 - Guided large enterprises through systemic DevOps transformation using GitHub
 - Enabled organizations to deliver value faster and more safely at scale
 
-### DevOps Senior Manager – Accenture (1995 – Feb 2022 · 27 years)
+### DevOps Senior Manager – Accenture (1995 – Feb 2022)
 A 27-year career spanning hands-on technical architecture to executive leadership across global enterprises and government.
 
 **DevOps Practice (2011 – 2021)**
