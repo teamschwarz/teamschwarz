@@ -38,6 +38,10 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
   <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
   <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
   <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
+  <img src="assets/badges/ms-applied-skills-azure-load-testing-github-actions.png" alt="Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions" height="100"/>
+  <img src="assets/badges/ms-applied-skills-ai-assisted-development-github-copilot.png" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" height="100"/>
+  <img src="assets/badges/ms-github-copilot.png" alt="Microsoft GitHub Copilot" height="100"/>
+  <img src="assets/badges/ms-github-foundations.png" alt="Microsoft GitHub Foundations" height="100"/>
 </p>
 
 
