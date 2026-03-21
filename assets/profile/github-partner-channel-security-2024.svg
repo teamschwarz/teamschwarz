@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Partner of the Year 2024 - Channel Security</title>
+  <desc id="desc">Circular black and white GitHub Partner of the Year 2024 badge for Channel Security.</desc>
+  <rect width="768" height="768" fill="#000000"/>
+  <circle cx="384" cy="384" r="382" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <circle cx="384" cy="384" r="315" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <circle cx="384" cy="384" r="226" fill="#ffffff"/>
+  <circle cx="384" cy="384" r="96" fill="#000000"/>
+  <g fill="#000000">
+    <ellipse cx="354" cy="315" rx="18" ry="26" transform="rotate(-28 354 315)"/>
+    <ellipse cx="414" cy="315" rx="18" ry="26" transform="rotate(28 414 315)"/>
+    <path d="M336 454c-6 0-11-5-11-11v-92c0-25 20-45 45-45h28c25 0 45 20 45 45v123c0 9-6 17-15 20l-28 7c-13 3-25-7-25-20v-62h-22c-8 0-15-7-15-15s7-15 15-15h22v-39c0-10-8-18-18-18h-28c-10 0-18 8-18 18v92c0 6-5 11-11 11z"/>
+    <path d="M327 408c-20 0-37-5-51-16-6-5-7-15-2-21 5-6 15-7 21-2 9 7 20 10 32 10 18 0 30-8 38-25 3-8 12-12 20-9 8 3 12 12 9 20-12 28-35 43-67 43z"/>
+  </g>
+  <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <path id="arc-top-security" d="M 98 384 A 286 286 0 0 1 670 384" fill="none"/>
+    <path id="arc-bottom-security" d="M 670 384 A 286 286 0 0 1 98 384" fill="none"/>
+    <text font-size="28" font-weight="700" letter-spacing="2.5">
+      <textPath href="#arc-top-security" startOffset="50%">GITHUB PARTNER OF THE YEAR</textPath>
+    </text>
+    <text font-size="28" font-weight="700" letter-spacing="2.5">
+      <textPath href="#arc-bottom-security" startOffset="50%">GITHUB PARTNER OF THE YEAR</textPath>
+    </text>
+    <text x="54" y="384" transform="rotate(-90 54 384)" font-size="26" font-weight="700" letter-spacing="2">2024</text>
+    <text x="714" y="384" transform="rotate(90 714 384)" font-size="26" font-weight="700" letter-spacing="2">2024</text>
+    <text x="384" y="486" font-size="50" font-weight="700">CHANNEL</text>
+    <text x="384" y="554" font-size="50" font-weight="700">SECURITY</text>
+  </g>
+</svg>

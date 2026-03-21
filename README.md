@@ -44,10 +44,29 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
   <img src="assets/badges/ms-github-foundations.png" alt="GitHub Foundations" title="GitHub Foundations" height="100"/>
 </p>
 
+## 🏅 Partner of the Year Awards
 
-## 🎓 Education
+Part of Xebia's two-time GitHub Partner Award-winning team, with consecutive wins in [2024](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) and [2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/).
 
-- **Bachelor of Science, Information Systems (1991 – 1995)** — University of Colorado Boulder
+<p align="center">
+  <a href="assets/pics/Overall_POTY_Badge_Black_@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Overall_POTY_Badge_Black_@2x.png" alt="GitHub Partner of the Year 2024 Overall Channel Partner badge" title="GitHub Partner of the Year 2024 - Overall Channel Partner" width="180"/></a>
+  <a href="assets/profile/xebia-github-award-2024.png" target="_blank" rel="noopener noreferrer"><img src="assets/profile/xebia-github-award-2024.png" alt="Xebia winning GitHub's 2024 Overall Channel Partner of the Year award" title="Xebia - GitHub 2024 Overall Channel Partner of the Year" width="320"/></a>
+  <a href="assets/pics/Security_POTY_Badge_Black@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Security_POTY_Badge_Black@2x.png" alt="GitHub Partner of the Year 2024 Channel Security badge" title="GitHub Partner of the Year 2024 - Channel Security" width="180"/></a>
+</p>
+
+- **2025: Strategic Services and Channel Partner of the Year**
+  - Recognized by GitHub for driving innovation, collaboration, and impact across the developer ecosystem.
+  - Reflected the work we do helping enterprise clients adopt GitHub Copilot, modernize developer platforms, and execute complex migrations to GitHub.
+
+  <p align="center">
+    <a href="assets/pics/xebia-2025-team-2.jpg" target="_blank" rel="noopener noreferrer"><img src="assets/pics/xebia-2025-team-2.jpg" alt="Xebia team celebrating GitHub Partner Award 2025" title="Xebia team celebrating GitHub Partner Award 2025" height="180"/></a>
+    <a href="assets/pics/xebia-2025-team-1.JPG" target="_blank" rel="noopener noreferrer"><img src="assets/pics/xebia-2025-team-1.JPG" alt="Xebia team at GitHub Partner Awards 2025" title="Xebia team at GitHub Partner Awards 2025" height="180"/></a>
+    <a href="assets/pics/xebia-2025-team-3.JPG" target="_blank" rel="noopener noreferrer"><img src="assets/pics/xebia-2025-team-3.JPG" alt="Xebia booth and team at GitHub event 2025" title="Xebia booth and team at GitHub event 2025" height="180"/></a>
+  </p>
+
+- **2024: Overall Channel Partner of the Year**
+  - Recognized for excellence across platform utilization, AI integration, security implementation, customer satisfaction, and overall business impact.
+  - GitHub highlighted Xebia's strengths in application development, cloud deployment services, and GitHub migration and integration.
 
 ---
 
@@ -90,6 +109,12 @@ A 27-year career spanning hands-on technical architecture to executive leadershi
 - 💼 LinkedIn: [rich-schwarz](https://www.linkedin.com/in/rich-schwarz/)
 - 🏆 Credly: [rich-schwarz](https://www.credly.com/users/rich-schwarz/badges)
 - 🐱 GitHub: [@teamschwarz](https://github.com/teamschwarz)
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Science, Information Systems (1991 – 1995)** — University of Colorado Boulder
 
 ---
 
