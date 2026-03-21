@@ -2,21 +2,22 @@
 
 ## 🚀 About Me
 
-**<!-- TODO: Your title/role @ Company -->**
+**DevOps Architect @ Xebia | GitHub Copilot Enablement | DevOps Transformation | 27+ years at Accenture**
 
-<!-- TODO: 2-3 sentence bio about your background, expertise, and what you do -->
+DevOps architect with 30+ years of experience helping large enterprises transform how they build and ship software. I specialize in GitHub platform adoption — from Copilot enablement and prompt engineering to large-scale migrations from Bitbucket, GitLab, AzDO, and Jenkins. I've spent my career at the intersection of people, process, and tooling, driving measurable change across financial services, government, and global enterprises.
 
 ### 🎯 Key Areas of Expertise
 
-- <!-- TODO: e.g. GitHub Copilot & AI-assisted development -->
-- <!-- TODO: e.g. DevOps, CI/CD, Platform Engineering -->
-- <!-- TODO: e.g. Cloud Architecture (Azure / AWS / GCP) -->
-- <!-- TODO: e.g. Application Modernization -->
-- <!-- TODO: e.g. Developer Experience & Tooling -->
+- GitHub Copilot enablement, metrics, and prompt engineering
+- DevOps transformation and platform migrations (Bitbucket, GitLab, AzDO, Jenkins → GitHub)
+- Solution Architecture for GitHub transformation projects
+- CI/CD, GitHub Actions, and Infrastructure as Code
+- DevOps assessments and enterprise-scale tool deployments
+- Application Lifecycle Management (ALM) and development tooling
 
 ### 💡 Profile
 
-<!-- TODO: What you're passionate about, your philosophy, how you connect tech to business. -->
+Passionate about making developers more effective. Whether I'm leading a GitHub Copilot rollout, architecting a migration from a legacy platform, or coaching teams on modern DevOps practices, my focus is always on delivering real, lasting change — not just installing tools. With a background spanning both deep technical architecture and executive leadership, I connect technology decisions to business outcomes.
 
 ---
 
@@ -64,14 +65,34 @@
 
 ## 💼 Experience Highlights
 
-<!-- TODO: Add 3-5 key roles with the format below:
+### DevOps Architect – Xebia (Nov 2023 – Present)
+Leading GitHub platform transformation engagements for enterprise clients, with a focus on AI-assisted development and migrations from legacy DevOps toolchains.
+- Leading GitHub Copilot enablement training and implementation, covering metrics to prompt engineering
+- Leading successful migration projects from Bitbucket, GitLab, AzDO, and Jenkins to GitHub
+- Solution architecture for end-to-end GitHub transformation projects
 
-### Role Title – Company Name (Year - Year or Present)
-Brief description of what you did and impact delivered.
-- Key achievement or technology
-- Key achievement or technology
+### DevOps Executive – Liatrio (Jan 2022 – Jun 2023)
+Helped complex organizations implement the GitHub platform and drive digital transformation through Enterprise DevOps and Cloud Native delivery.
+- Guided large enterprises through systemic DevOps transformation using GitHub
+- Enabled organizations to deliver value faster and more safely at scale
 
--->
+### DevOps Senior Manager – Accenture (1995 – Feb 2022 · 27 years)
+A 27-year career spanning hands-on technical architecture to executive leadership across global enterprises and government.
+
+**DevOps Practice (2011 – 2021)**
+- DevOps Solution & Technical Architecture
+- DevOps Assessments and Transformation Journeys
+- CI/CD for Salesforce Implementations
+- Private Cloud Operations Management
+
+**Application Lifecycle Management Deployment Lead (2005 – 2011)**
+- Large-scale Development / ALM Tool & Process Deployments
+- Development Tools Solution Architect
+
+**Technical / Architect Roles (2000 – 2004)**
+- Model Driven Architecture (MDA) and Custom Component Architecture
+- Program Management and Development Management
+- Object Oriented Development & Architecture
 
 ---
 
