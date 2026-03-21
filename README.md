@@ -24,24 +24,24 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="assets/badges/github-actions.png" alt="GitHub Actions" height="100"/>
-  <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" height="100"/>
-  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
-  <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
-  <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
-  <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
-  <img src="assets/badges/github-copilot-delivery.png" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
-  <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
-  <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
-  <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
-  <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" height="100"/>
-  <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
-  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
-  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
-  <img src="assets/badges/ms-applied-skills-azure-load-testing-github-actions.png" alt="Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions" height="100"/>
-  <img src="assets/badges/ms-applied-skills-ai-assisted-development-github-copilot.png" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" height="100"/>
-  <img src="assets/badges/ms-github-copilot.png" alt="Microsoft GitHub Copilot" height="100"/>
-  <img src="assets/badges/ms-github-foundations.png" alt="Microsoft GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-actions.png" alt="GitHub Actions" title="GitHub Actions" height="100"/>
+  <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" title="GitHub Copilot" height="100"/>
+  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" title="GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner Delivery Credential" title="GitHub Migrations Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations Partner Delivery Credential" title="AzureDevOps to GitHub Migrations Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" title="GitHub Advanced Security Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-copilot-delivery.png" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" title="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Partner Sales Professional" title="FY26 GitHub Partner Sales Professional" height="100"/>
+  <img src="assets/badges/github-platform-sales.png" alt="FY26 GitHub Platform Partner Sales Credential" title="FY26 GitHub Platform Partner Sales Credential" height="100"/>
+  <img src="assets/badges/github-security-sales.png" alt="FY26 GitHub Advanced Security Partner Sales Credential" title="FY26 GitHub Advanced Security Partner Sales Credential" height="100"/>
+  <img src="assets/badges/github-copilot-sales.png" alt="FY26 GitHub Copilot Partner Sales Credential" title="FY26 GitHub Copilot Partner Sales Credential" height="100"/>
+  <img src="assets/badges/github-revenue-motions.png" alt="FY26 GitHub Revenue Motions Partner Sales Credential" title="FY26 GitHub Revenue Motions Partner Sales Credential" height="100"/>
+  <img src="assets/badges/github-tech-sales.png" alt="GitHub Partner Technical Sales Professional Credential" title="GitHub Partner Technical Sales Professional Credential" height="100"/>
+  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" title="GitHub Sales Professional" height="100"/>
+  <img src="assets/badges/ms-applied-skills-azure-load-testing-github-actions.png" alt="Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions" title="Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions" height="100"/>
+  <img src="assets/badges/ms-applied-skills-ai-assisted-development-github-copilot.png" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" title="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" height="100"/>
+  <img src="assets/badges/ms-github-copilot.png" alt="GitHub Copilot" title="GitHub Copilot" height="100"/>
+  <img src="assets/badges/ms-github-foundations.png" alt="GitHub Foundations" title="GitHub Foundations" height="100"/>
 </p>
 
 
