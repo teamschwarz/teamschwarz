@@ -95,13 +95,17 @@ A 27-year career spanning hands-on technical architecture to executive leadershi
 - Large-scale Development / ALM Tool & Process Deployments
 - Development Tools Solution Architect
 
-**Technical / Architect Roles (2000 – 2004)**
+**Technical / Architect Roles (1995 – 2004)**
 - Model Driven Architecture (MDA) and Custom Component Architecture
 - Program Management and Development Management
 - Object Oriented Development & Architecture
 
 ---
 
+## 🎓 Education
+- **Bachelor of Science, Information Systems (1991 – 1995)** — University of Colorado Boulder
+
+---
 
 ## 📫 How to Find Me
 
@@ -109,11 +113,6 @@ A 27-year career spanning hands-on technical architecture to executive leadershi
 - 🏆 Credly: [rich-schwarz](https://www.credly.com/users/rich-schwarz/badges)
 - 🐱 GitHub: [@teamschwarz](https://github.com/teamschwarz)
 
----
-
-## 🎓 Education
-
-- **Bachelor of Science, Information Systems (1991 – 1995)** — University of Colorado Boulder
 
 ---
 
