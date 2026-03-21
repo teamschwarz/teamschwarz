@@ -55,7 +55,7 @@ Leading GitHub platform transformation engagements for enterprise clients, with 
 - Leading successful migration projects from Bitbucket, GitLab, AzDO, and Jenkins to GitHub
 - Solution architecture for end-to-end GitHub transformation projects
 
-### DevOps Executive – Liatrio (Jan 2022 – Jun 2023)
+### DevOps Executive – Li atrio (Jan 2022 – Jun 2023)
 Helped complex organizations implement the GitHub platform and drive digital transformation through Enterprise DevOps and Cloud Native delivery.
 - Guided large enterprises through systemic DevOps transformation using GitHub
 - Enabled organizations to deliver value faster and more safely at scale
