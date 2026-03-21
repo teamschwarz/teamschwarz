@@ -48,9 +48,9 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 Part of Xebia's two-time GitHub Partner Award-winning team, with consecutive wins in [2024](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) and [2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/).
 
 <p align="center">
-  <a href="assets/pics/Overall_POTY_Badge_Black_@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Overall_POTY_Badge_Black_@2x.png" alt="GitHub Partner of the Year 2024 Overall Channel Partner badge" title="GitHub Partner of the Year 2024 - Overall Channel Partner" width="180"/></a>
-  <a href="assets/profile/xebia-github-award-2024.png" target="_blank" rel="noopener noreferrer"><img src="assets/profile/xebia-github-award-2024.png" alt="Xebia winning GitHub's 2024 Overall Channel Partner of the Year award" title="Xebia - GitHub 2024 Overall Channel Partner of the Year" width="320"/></a>
-  <a href="assets/pics/Security_POTY_Badge_Black@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Security_POTY_Badge_Black@2x.png" alt="GitHub Partner of the Year 2024 Channel Security badge" title="GitHub Partner of the Year 2024 - Channel Security" width="180"/></a>
+  <a href="assets/pics/Overall_POTY_Badge_Black_@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Overall_POTY_Badge_Black_@2x.png" alt="GitHub Partner of the Year 2024 Overall Channel Partner badge" title="GitHub Partner of the Year 2024 - Overall Channel Partner" width="120"/></a>
+  <a href="assets/profile/xebia-github-award-2024.png" target="_blank" rel="noopener noreferrer"><img src="assets/profile/xebia-github-award-2024.png" alt="Xebia winning GitHub's 2024 Overall Channel Partner of the Year award" title="Xebia - GitHub 2024 Overall Channel Partner of the Year" width="240"/></a>
+  <a href="assets/pics/Security_POTY_Badge_Black@2x.png" target="_blank" rel="noopener noreferrer"><img src="assets/pics/Security_POTY_Badge_Black@2x.png" alt="GitHub Partner of the Year 2024 Channel Security badge" title="GitHub Partner of the Year 2024 - Channel Security" width="120"/></a>
 </p>
 
 - **2025: Strategic Services and Channel Partner of the Year**
