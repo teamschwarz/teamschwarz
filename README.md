@@ -43,7 +43,7 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 
 </p>
 
-## 🏅 Partner of the Year Awards
+## 🏅 GitHub Partner of the Year Awards
 
 Part of Xebia's two-time GitHub Partner Award-winning team, with consecutive wins in [2024](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) and [2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/).
 
