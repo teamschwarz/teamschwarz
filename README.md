@@ -93,12 +93,4 @@ A 27-year career spanning hands-on technical architecture to executive leadershi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=teamschwarz&show_icons=true&theme=dark&hide_border=true" alt="Rich Schwarz GitHub Stats" />
-</p>
-
----
-
 *Profile last updated: March 2026*
