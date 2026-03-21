@@ -71,11 +71,21 @@ Part of Xebia's two-time GitHub Partner Award-winning team, with consecutive win
 
 ## 💼 Experience Highlights
 
-### DevOps Architect – Xebia (Nov 2023 – Present)
+### Principal Consultant/DevOps Architect – Xebia (Nov 2023 – Present)
 Leading GitHub platform transformation engagements for enterprise clients, with a focus on AI-assisted development and migrations from legacy DevOps toolchains.
-- Lead GitHub Copilot enablement programs, from metrics to prompt engineering
-- Lead migration initiatives from Bitbucket, GitLab, AzDO, and Jenkins to GitHub
-- Design end-to-end solution architecture for GitHub transformation programs
+
+**Platform Adoption & Enablement**
+- Lead GitHub Copilot enablement programs across technical and organizational dimensions—from capability metrics and governance to prompt engineering best practices, ensuring developers unlock AI productivity gains responsibly
+- Build adoption strategies that address the human-side of transformation: organizational readiness, skills reskilling, and cultural change management alongside technical enablement
+
+**Pipeline & CI/CD Migration Complexity**
+- Lead migration initiatives from Bitbucket, GitLab, AzDO, and Jenkins to GitHub, navigating the technical and architectural complexities of legacy CI/CD systems
+- Address primary migration challenges: decoupling tightly-integrated workflows, re-architecting self-hosted runner infrastructure, managing secret rotation at scale, and refactoring multi-platform build logic into GitHub Actions patterns
+- Help teams transition from imperative pipeline scripts to declarative workflows while preserving reliability and visibility
+
+**Well-Architected Transformation**
+- Design end-to-end solution architecture for GitHub transformation programs using GitHub Well-Architected Framework principles—achieving security, reliability, performance, and cost optimization from day one
+- Accelerate time-to-value by architecting foundational governance, branching strategies, and platform standards that enable hundreds of teams to operate efficiently without central bottlenecks
 
 ### DevOps Executive – Li atrio (Jan 2022 – Jun 2023)
 Helped complex organizations implement the GitHub platform and drive digital transformation through enterprise DevOps and cloud-native delivery.
