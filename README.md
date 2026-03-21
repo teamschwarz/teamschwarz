@@ -23,39 +23,23 @@ Passionate about making developers more effective. Whether I'm leading a GitHub 
 
 ## 🏆 Certifications
 
-### ☁️ Cloud & DevOps
-
-#### GitHub
 <p align="left">
-  <!-- TODO: Add Credly badge images from https://www.credly.com/users/rich-schwarz/badges -->
-  <!-- Example:
-  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-actions.png" alt="GitHub Actions" height="100"/>
   <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" height="100"/>
-  -->
+  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
+  <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
+  <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-copilot-delivery.png" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
+  <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
+  <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
+  <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" height="100"/>
+  <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
+  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
+  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
 </p>
 
-<!-- TODO: List your GitHub certifications, e.g.:
-- GitHub Foundations
-- GitHub Actions
-- GitHub Advanced Security
-- GitHub Copilot
--->
-
-#### Microsoft Azure
-<p align="left">
-  <!-- TODO: Add Azure badge images -->
-</p>
-
-<!-- TODO: List your Azure certifications -->
-
-#### Other Certifications
-<p align="left">
-  <!-- TODO: Add other badge images -->
-</p>
-
-<!-- TODO: List any other certifications (AWS, GCP, HashiCorp, Scrum, etc.) -->
-
----
 
 ## 🎓 Education
 
@@ -96,32 +80,12 @@ A 27-year career spanning hands-on technical architecture to executive leadershi
 
 ---
 
-## 📸 Beyond Code: Photography
-
-<table>
-<tr>
-<td width="30%">
-<!-- TODO: Add a photo from your photography work. See richschwarz.com for options. -->
-<!-- <img src="assets/profile/photography.jpg" alt="Rich Schwarz Photography" width="100%"/> -->
-</td>
-<td width="70%">
-
-Passionate photographer who has captured images across **Asia, Europe, the Middle East, Africa, South America, Australia, and North America**. Photography teaches patience, attention to detail, and seeing the world from new perspectives — skills that translate directly into thoughtful engineering and design work.
-
-📷 **Portfolio:** [richschwarz.com](https://www.richschwarz.com)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📫 How to Find Me
 
 - 💼 LinkedIn: [rich-schwarz](https://www.linkedin.com/in/rich-schwarz/)
 - 🏆 Credly: [rich-schwarz](https://www.credly.com/users/rich-schwarz/badges)
 - 🐱 GitHub: [@teamschwarz](https://github.com/teamschwarz)
-- 📷 Photography: [richschwarz.com](https://www.richschwarz.com)
 
 ---
 
