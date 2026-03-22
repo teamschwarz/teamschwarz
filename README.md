@@ -71,7 +71,7 @@ Part of Xebia's two-time GitHub Partner Award-winning team, with consecutive win
 
 ## 💼 Experience Highlights
 
-### Principal Consultant/DevOps Architect – Xebia (Nov 2023 – Present)
+### Principal Consultant/DevOps Architect – Xebia (2023 – Present)
 Leading GitHub platform transformation engagements for enterprise clients, with a focus on AI-assisted development and migrations from legacy DevOps toolchains.
 
 **Platform Adoption & Enablement**
@@ -87,7 +87,7 @@ Leading GitHub platform transformation engagements for enterprise clients, with 
 - Design end-to-end solution architecture for GitHub transformation programs using GitHub Well-Architected Framework principles—achieving security, reliability, performance, and cost optimization from day one
 - Accelerate time-to-value by architecting foundational governance, branching strategies, and platform standards that enable hundreds of teams to operate efficiently without central bottlenecks
 
-### DevOps Executive – Li atrio (Jan 2022 – Jun 2023)
+### DevOps Executive – Li atrio (2022 – 2023)
 Helped complex organizations implement the GitHub platform and drive digital transformation through enterprise DevOps and cloud-native delivery.
 - Guided large enterprises through systemic DevOps transformation using GitHub
 - Enabled organizations to deliver value faster and more safely at scale
