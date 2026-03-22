@@ -92,7 +92,7 @@ Helped complex organizations implement the GitHub platform and drive digital tra
 - Guided large enterprises through systemic DevOps transformation using GitHub
 - Enabled organizations to deliver value faster and more safely at scale
 
-### DevOps Senior Manager – Accenture (1995 – Feb 2022)
+### DevOps Senior Manager – Accenture (1995 – 2021)
 A 27-year career spanning hands-on technical architecture to executive leadership across global enterprises and government.
 
 **DevOps Practice (2011 – 2021)**
