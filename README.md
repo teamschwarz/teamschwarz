@@ -91,6 +91,7 @@ Leading GitHub platform transformation engagements for enterprise clients, with 
 Helped complex organizations implement the GitHub platform and drive digital transformation through enterprise DevOps and cloud-native delivery.
 - Guided large enterprises through systemic DevOps transformation using GitHub
 - Enabled organizations to deliver value faster and more safely at scale
+- Led DevOps dojos to upskill engineering teams through hands-on coaching, accelerating adoption of modern delivery practices and platform capabilities
 ---
 ### DevOps Senior Manager – Accenture (1995 – 2021)
 A 27-year career spanning hands-on technical architecture to executive leadership across global enterprises and government.
